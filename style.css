@@ -26,3 +26,8 @@ min-height:400px;
 background-image:url(http://placeimg.com/960/400/people);
 
 }
+
+.mainnav {
+height:40px;
+background-color:#30ABF2;
+}
