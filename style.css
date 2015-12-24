@@ -16,6 +16,13 @@ margin:40px auto;
 }
 
 .main_title {
-font-size:2.5rem;
+font-size:6.5rem;
 font-family:'Veldana';
+line-height:400px;
+}
+
+.mainheader {
+min-height:400px;
+background-image:url(http://placeimg.com/960/400/people);
+
 }
